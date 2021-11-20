@@ -17,3 +17,10 @@
 
 ## Project info
 NLP project: in order to work on NLP topic modling we used Reddit to take posts, and do the topic modelling for each subreddit.
+
+
+
+# Soon All Table of contents will be filled!!  Be ready to enjoy the project 
+
+## Status
+Project is: _Under-Proccess_

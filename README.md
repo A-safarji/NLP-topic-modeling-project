@@ -6,6 +6,8 @@
 
 
 <img src="https://img.shields.io/badge/Complete-Soon-red" alt="Soon"/> <img src="https://img.shields.io/badge/NLP-Topic%20Modeling-yellow" alt="Soon"/>
+<img src="https://img.shields.io/github/issues/A-safarji/NLP_project-" alt="Soon"/>
+
 
 [](https://img.shields.io/badge/Complete-Soon-red)
 ## Table of contents

@@ -25,7 +25,7 @@
 
 
 ## Project info
-NLP project: in order to work on NLP topic modling we used Reddit to take posts, and do the topic modelling for each subreddit.
+NLP project: in order to work on NLP topic modeling we used Reddit to take posts, and do the topic modelling for each subreddit.
 
 
 

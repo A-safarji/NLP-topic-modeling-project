@@ -4,7 +4,7 @@
 
 
 ## Table of contents
-* [Project info](#general-info)
+* [Project info](#project-info)
 * [Screenshots](#screenshots)
 * [Features](#features)
 * [Technologies](#technologies)

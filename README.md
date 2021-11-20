@@ -23,4 +23,9 @@ NLP project: in order to work on NLP topic modling we used Reddit to take posts,
 # Soon All Table of contents will be filled!!  Be ready to enjoy the project 
 
 ## Status
-Project is: _Under-Proccess_
+ Project is: ![##ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)  _Under-Proccess_
+
+
+
+
+<!-- Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  _Under-Proccess_

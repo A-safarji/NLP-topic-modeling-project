@@ -2,7 +2,8 @@
 
 ![Reddit-Logo](https://user-images.githubusercontent.com/20365333/142718256-b23b15c4-6f5f-44bb-8df2-293d5f2f057d.png)
 
-
+https://img.shields.io/github/issues/A-safarji/NLP_project-?style=for-the-badge
+https://img.shields.io/github/forks/A-safarji/NLP_project-?style=for-the-badge
 ## Table of contents
 * [Project info](#project-info)
 * [Screenshots](#screenshots)

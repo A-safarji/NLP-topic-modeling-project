@@ -27,7 +27,7 @@ NLP project: in order to work on NLP topic modling we used Reddit to take posts,
 
 
 
-
+https://img.shields.io/github/status/s/pulls/A-safarji/NLP_project-/1
 
 <!-- Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  _Under-Proccess_
 

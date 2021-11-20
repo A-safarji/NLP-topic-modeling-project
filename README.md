@@ -4,7 +4,9 @@
 
 https://img.shields.io/github/issues/A-safarji/NLP_project-?style=for-the-badge
 https://img.shields.io/github/forks/A-safarji/NLP_project-?style=for-the-badge
+
 https://img.shields.io/github/issues/A-safarji/NLP_project-
+
 ## Table of contents
 * [Project info](#project-info)
 * [Screenshots](#screenshots)

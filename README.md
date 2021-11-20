@@ -28,4 +28,11 @@ NLP project: in order to work on NLP topic modling we used Reddit to take posts,
 
 
 
+
 <!-- Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  _Under-Proccess_
+
+
+[![Build](https://github.com/SimonIT/spotifylyrics/workflows/Build/badge.svg)](https://github.com/SimonIT/spotifylyrics/actions?query=workflow%3ABuild)
+[![Current Release](https://img.shields.io/github/release/SimonIT/spotifylyrics.svg)](https://github.com/SimonIT/spotifylyrics/releases)
+[![License](https://img.shields.io/github/license/SimonIT/spotifylyrics.svg)](https://github.com/SimonIT/spotifylyrics/blob/master/LICENSE)
+[![GitHub All Releases](https://img.shields.io/github/downloads/SimonIT/spotifylyrics/total)](https://github.com/SimonIT/spotifylyrics/releases)

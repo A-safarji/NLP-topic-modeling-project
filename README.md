@@ -6,3 +6,14 @@
 # Project
 In order to work on NLP topic modling we used Reddit to take posts, and do the topic modelling for each subreddit.
 
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Features](#features)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Status](#status)
+* [Contact](#contact)
+* [License](#license)
+* [Contributing](#contributing)
+

@@ -55,14 +55,14 @@ NLP project: in order to work on NLP topic modeling we used Reddit to take posts
 # Soon All Table of contents will be filled!!  Be ready to enjoy the project 
 
 ## Status
+
+ Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  _Done_
+
+
+
+
+<!-- Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  _Done_
  Project is: ![##ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)  _Under-Proccess_
-
-
-
-
-
-<!-- Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  _Under-Proccess_
-
 
 [![Build](https://github.com/SimonIT/spotifylyrics/workflows/Build/badge.svg)](https://github.com/SimonIT/spotifylyrics/actions?query=workflow%3ABuild)
 [![Current Release](https://img.shields.io/github/release/SimonIT/spotifylyrics.svg)](https://github.com/SimonIT/spotifylyrics/releases)

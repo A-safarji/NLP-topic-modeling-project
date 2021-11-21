@@ -16,7 +16,7 @@
 * [Project info](#project-info)
 * [Questions](#questions)
 * [Why Riddet Topic Modeling?](#why-riddet-topic-modeling)
-* [Technologies](#technologies)
+* [Tools](#tools)
 * [Screenshots](#screenshots)
 * [Status](#status)
 * [Contact](#contact)
@@ -44,8 +44,8 @@ NLP project: in order to work on NLP topic modeling we used Reddit to take posts
 * Make it easy for the Reddit community to use unsupervised topic modeling and advance in technology as people discuss in text format.   
 
 
-## Technologies
-
+## Tools
+Language: Python3:
 * Data manipulation: NumPy and Pandas 
 * Modeling: Sklearn 
 * Visualization: matlibplot, plotly and seaborn 
@@ -66,7 +66,25 @@ NLP project: in order to work on NLP topic modeling we used Reddit to take posts
  Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  _Done_
 
 
+## Contact
 
+[NLP topic modeling](https://github.com/A-safarji) - feel free to contact us!
+
+
+
+
+## License
+>You can check out the full license [here](https://github.com/A-safarji/NLP-topic-modeling-project/blob/master/LICENSE.md)
+
+This project is licensed under the terms of the **MIT** license.
+
+## Contributing
+
+1. Fork it (<https://github.com/A-safarji/NLP-topic-modeling-project.git>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
 <!-- Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  _Done_
  Project is: ![##ff0000](https://via.placeholder.com/15/ff0000/000000?text=+)  _Under-Proccess_

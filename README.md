@@ -14,8 +14,8 @@
 [](https://img.shields.io/badge/Complete-Soon-red)
 ## Table of contents
 * [Project info](#project-info)
-* [Screenshots](#screenshots)
-* [Features](#features)
+* [Questions](#questions)
+* [Why Riddet Toping Modeling?](#Why)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
@@ -26,6 +26,29 @@
 
 ## Project info
 NLP project: in order to work on NLP topic modeling we used Reddit to take posts, and do the topic modelling for each subreddit.
+
+
+## Questions
+
+* To do NLP topic modeling, it is a critical task to work on. To do so, this job must follow these important questions:
+
+                * What are the most subreddit the affect specification?
+                * Does the model perform well on other samples?
+                * What are the best posts in the topic modeling?
+
+
+## Why Riddet Toping Modeling?
+
+* To organize, understand and summarize large collections of textual information.
+
+* Make it easy for the Reddit community to use unsupervised topic modeling and advance in technology as people discuss in text format.   
+
+## Screenshots
+
+
+<img width="874" alt="Screen Shot 2021-11-21 at 11 43 00 AM" src="https://user-images.githubusercontent.com/20365333/142755563-c4d891db-f804-4369-a03e-3312524d7f44.png">
+
+
 
 
 

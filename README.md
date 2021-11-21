@@ -5,7 +5,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Complete-Soon-red" alt="Soon"/> <img src="https://img.shields.io/badge/NLP-Topic%20Modeling-blue" alt="Soon"/>
+<img src="https://img.shields.io/badge/Complete-Done-red" alt="Soon"/> <img src="https://img.shields.io/badge/NLP-Topic%20Modeling-blue" alt="Soon"/>
 <img src="https://img.shields.io/github/issues/A-safarji/NLP-topic-modeling-project" alt="issu"/>
 <img src="https://img.shields.io/github/license/A-safarji/NLP-topic-modeling-project" alt="lisen"/>
 

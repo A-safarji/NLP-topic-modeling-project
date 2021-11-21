@@ -74,7 +74,7 @@ Language: Python3:
 
 
 ## License
->You can check out the full license [here](https://github.com/A-safarji/NLP-topic-modeling-project/blob/master/LICENSE.md)
+>You can check out the full license [here](https://github.com/A-safarji/NLP-topic-modeling-project/blob/main/README.md)
 
 This project is licensed under the terms of the **MIT** license.
 

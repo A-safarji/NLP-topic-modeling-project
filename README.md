@@ -28,6 +28,7 @@
 NLP project: in order to work on NLP topic modeling we used Reddit to take posts, and do the topic modelling for each subreddit.
 
 
+
 ## Questions
 
 * To do NLP topic modeling, it is a critical task to work on. To do so, this job must follow these important questions:
@@ -60,6 +61,9 @@ Language: Python3:
 
 
 
+<img width="521" alt="Screen Shot 2021-11-21 at 12 14 56 PM" src="https://user-images.githubusercontent.com/20365333/142756378-8a553047-4351-4234-af9f-6b2dc7d30f57.png">
+
+<img width="735" alt="Screen Shot 2021-11-21 at 12 14 10 PM" src="https://user-images.githubusercontent.com/20365333/142756356-7cacde93-aa0e-4562-bb01-653d7a98f218.png">
 
 ## Status
 

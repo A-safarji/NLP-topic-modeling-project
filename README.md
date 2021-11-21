@@ -15,7 +15,7 @@
 ## Table of contents
 * [Project info](#project-info)
 * [Questions](#questions)
-* [Why Riddet Toping Modeling?](#Why)
+* [Why Riddet Toping Modeling?](#why-riddet-toping-modeling?)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)

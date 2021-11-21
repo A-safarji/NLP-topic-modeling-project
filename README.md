@@ -17,7 +17,7 @@
 * [Questions](#questions)
 * [Why Riddet Topic Modeling?](#why-riddet-topic-modeling)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Screenshots](#screenshots)
 * [Status](#status)
 * [Contact](#contact)
 * [License](#license)
@@ -42,6 +42,16 @@ NLP project: in order to work on NLP topic modeling we used Reddit to take posts
 * To organize, understand and summarize large collections of textual information.
 
 * Make it easy for the Reddit community to use unsupervised topic modeling and advance in technology as people discuss in text format.   
+
+
+## Technologies
+
+* Data manipulation: NumPy and Pandas 
+* Modeling: Sklearn 
+* Visualization: matlibplot, plotly and seaborn 
+* NLP:PyCaret NLP, gensim, nltk,scipy
+* Others: pyLDAvis, pylab,pickle, and regex
+
 
 ## Screenshots
 

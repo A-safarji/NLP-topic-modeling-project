@@ -56,14 +56,13 @@ Language: Python3:
 
 ## Screenshots
 
+<img width="521" alt="Screen Shot 2021-11-21 at 12 14 56 PM" src="https://user-images.githubusercontent.com/20365333/142756378-8a553047-4351-4234-af9f-6b2dc7d30f57.png">
 
 <img width="874" alt="Screen Shot 2021-11-21 at 11 43 00 AM" src="https://user-images.githubusercontent.com/20365333/142755563-c4d891db-f804-4369-a03e-3312524d7f44.png">
 
 
+<img width="732" alt="Screen Shot 2021-11-21 at 12 17 21 PM" src="https://user-images.githubusercontent.com/20365333/142756448-cefcec29-e6de-4820-a3fc-d80da1b08916.png">
 
-<img width="521" alt="Screen Shot 2021-11-21 at 12 14 56 PM" src="https://user-images.githubusercontent.com/20365333/142756378-8a553047-4351-4234-af9f-6b2dc7d30f57.png">
-
-<img width="735" alt="Screen Shot 2021-11-21 at 12 14 10 PM" src="https://user-images.githubusercontent.com/20365333/142756356-7cacde93-aa0e-4562-bb01-653d7a98f218.png">
 
 ## Status
 

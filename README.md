@@ -33,7 +33,7 @@ NLP project: in order to work on NLP topic modeling we used Reddit to take posts
 
 * To do NLP topic modeling, it is a critical task to work on. To do so, this job must follow these important questions:
 
-                * What are the most subreddit the affect specification?
+                * What are the most subreddit that needed to be modelled as specification?
                 * Does the model perform well on other samples?
                 * What are the best posts in the topic modeling?
 

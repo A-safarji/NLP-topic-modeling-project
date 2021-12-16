@@ -1,4 +1,4 @@
-# Natural Language Processing Reddit Topic Modeling Project
+# Natural Language Processing Reddit Topic Modeling Project 
 
 ![Reddit-Logo](https://user-images.githubusercontent.com/20365333/142718256-b23b15c4-6f5f-44bb-8df2-293d5f2f057d.png)
 
@@ -25,7 +25,7 @@
 
 
 ## Project info
-NLP project: in order to work on NLP topic modeling we used Reddit to take posts, and do the topic modelling for each subreddit.
+NLP project(T5): in order to work on NLP topic modeling we used Reddit to take posts, and do the topic modelling for each subreddit.
 
 
 
@@ -93,7 +93,7 @@ This project is licensed under the terms of the **MIT** license.
 
 # Contributors
 ------------
-# Team Memebers (T5)
+# Team Memebers 
 
 * [Abdultawwab Safarji](https://github.com/A-safarji)
 * [Khalid Saleh](https://github.com/KhalidSaleh98)  
